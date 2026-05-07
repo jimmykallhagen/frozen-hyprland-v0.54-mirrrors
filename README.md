@@ -1,5 +1,5 @@
 # frozen-hyprland-v0.54-mirrrors
-The HYprland stack frozen for Nordix desktop environment Yggdrasil (pree lua) v0.54
+The Hyprland stack frozen for Nordix desktop environment Yggdrasil (pree lua) v0.54
 
 **The mirror is hosted on gitlab:**
 - [https://gitlab.com/TheEnchantedPotato/mirror-hyprwire-hyprland-v0.54](https://gitlab.com/TheEnchantedPotato/mirror-xdg-desktop-portal-hyprland-hyprland-v0.54)
