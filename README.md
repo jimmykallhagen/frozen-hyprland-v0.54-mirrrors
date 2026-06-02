@@ -19,3 +19,4 @@ The Hyprland stack frozen for Nordix desktop environment Yggdrasil (pree lua) v0
 - [https://gitlab.com/TheEnchantedPotato/mirror-hyprgraphics-hyprland-v0.54](https://gitlab.com/TheEnchantedPotato/mirror-hyprgraphics-hyprland-v0.54)
 - [https://gitlab.com/TheEnchantedPotato/mirror-hyprcursor-hyprland-v0.54](https://gitlab.com/TheEnchantedPotato/mirror-hyprcursor-hyprland-v0.54)
 - [https://gitlab.com/TheEnchantedPotato/aquamarine-frozen-mirror](https://gitlab.com/TheEnchantedPotato/aquamarine-frozen-mirror)
+- [https://gitlab.com/TheEnchantedPotato/mirror-xdg-desktop-portal-hyprland-hyprland-v0.54](https://gitlab.com/TheEnchantedPotato/mirror-xdg-desktop-portal-hyprland-hyprland-v0.54)
